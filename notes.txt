@@ -1,0 +1,13 @@
+C:\Users\Victor.Maton\AppData\Local\Programs\Python\Python39\python.exe -m venv venv
+.\venv\Scripts\activate
+deactivate
+
+pip install pyautogui
+pip install Pillow
+pip install opencv-python
+
+https://www.topcoder.com/thrive/articles/python-for-gui-automation-pyautogui
+tutorialspoint.com/batch_script/batch_script_variables.htm
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd
+
+
